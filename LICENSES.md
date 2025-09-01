@@ -1,7 +1,7 @@
 # Licensing Overview
 
 ## Main Repository
-Copyright © 2025 Jeremiah Kroeche / Halfservers LLC / Project FLAR3.  
+Copyright © 2025 Jeremiah Kroeche / Halfservers LLC.  
 All rights reserved. See LICENSE.md for full terms.  
 
 This license applies to:
